@@ -3,7 +3,7 @@
 #include<stdbool.h>
 #include "SDL.h"
 
-//SDL Container Object
+
 typedef struct{
     SDL_Window *window;
     SDL_Renderer *renderer;
